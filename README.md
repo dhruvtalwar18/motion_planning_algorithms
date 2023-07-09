@@ -60,7 +60,7 @@ Below given images are of A* path with eucledian heursitic for different maps.
   <p align="center">Fig.7 A* on Maze Map</p>
 </p>
 
-<b> Effect of different heuristic function </b>
+<b> Effect of different heuristic function </b> <br>
 In many pathfinding scenarios, especially in grid-based
 maps where the optimal path tends to be straighter,
 distance heuristics such as Manhattan and Euclidean distances can produce better results. Thus in maps such as
