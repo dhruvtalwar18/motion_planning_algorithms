@@ -79,7 +79,7 @@ diagonal shortcuts that may exist, leading to more direct
 paths. 
 
 <p align="center">
-    <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Heuristic_fn.png" title="Effects of Heuristic Function" style="width: 400px; height: 400px;">
+    <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Heuristic_fn.png" title="Effects of Heuristic Function" style="width: 600px; height: 400px;">
   <br>
   <p align="center">Fig.7 Effects of Heuristic Function on Path length </p>
 </p>
