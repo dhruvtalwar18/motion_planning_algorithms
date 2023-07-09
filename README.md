@@ -72,7 +72,19 @@ tends to produce better paths compared to the Euclidean
 and Manhattan heuristics. This can be attributed to the
 characteristics of the Chebyshev distance metric.
 The Chebyshev distance considers diagonal movements
-in addition to horizontal and vertical movements, which
+in addition to horizontal and vertical movements, which allows it to better approximate the true distance in a
+grid-like environment. In maps with complex obstacle
+configurations, the Chebyshev heuristic can account for
+diagonal shortcuts that may exist, leading to more direct
+paths. 
+
+<p align="center">
+    <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Heuristic_fn.png" title="Effects of Heuristic Function" style="width: 400px; height: 400px;">
+  <br>
+  <p align="center">Fig.7 Effects of Heuristic Function on Path length </p>
+</p>
+
+
 
 <h1><b> RRT* Results </b></h1>
 
