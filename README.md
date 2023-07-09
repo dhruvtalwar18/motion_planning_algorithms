@@ -142,8 +142,39 @@ Below given images are of RRT* path with Uniform Sampling for different maps.
   <p align="center">Fig.7 RRT* on Maze Map</p>
 </p>
 
+<b> Effect of different Sampling Methods </b> <br>
+In the maps where gaussian Sampling was able to find a
+path, it tends to produce shorter path lengths compared
+to other sampling methods. All except monza and Maze
+where there had to be a direction for the tree to expand,
+it was not able to reach to the goal as these maps were
+more of guided maps. <br>
+This is because this sampling method tends to distribute
+the samples evenly across the space, covering a wider
+range of configurations. In the context of path planning,
+Gaussian sampling can explore different areas of the map,
+potentially leading to more diverse and flexible paths. This
+increased exploration can sometimes result in shorter path
+lengths as it allows the algorithm to find more direct or
+efficient routes. The drawback is that gaussian sampling
+uses or visits a large number of nodes which result in the
+RRT* algorithm to be slow. <br>
+
+Even though from the graph we can see that gaussian
+sampling is giving better results but the time taken as
+compared between Gaussian and uniform, Gaussian takes
+more than 3 times the time as compared to uniform
+and goal biased While uniform sampling ensures equal
+coverage across the space, it may not capture the specific
+characteristics or features of the map that could lead to
+shorter paths. <br>
 
 
+<p align="center">
+    <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/RRT_star.png" title="Effects of Heuristic Function" style="width: 600px; height: 400px;">
+  <br>
+  <p align="center">Fig.8 Effects of Sampling on Path length </p>
+</p>
 
 
 
