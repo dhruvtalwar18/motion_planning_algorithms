@@ -50,16 +50,11 @@ This project aims to conduct a comprehensive comparison between search-based and
     </td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/maze_e.png" title="A* on Maze Map">
-      <br>
-      <p align="center">Fig.7 A* path on Maze Map</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/maze_e.png" title="A* on Maze Map" style="width: 400px;">
+  <br>
+  <p align="center">Fig.7 Additional Image</p>
+</p>
 
 <h1><b> RRT* Results </b></h1>
 
