@@ -6,8 +6,25 @@ This project aims to conduct a comprehensive comparison between search-based and
 
 <h1><b> A* Results </b></h1>
 
-<p align="center"><img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Cube_e.png" title="A* on Cube Map"></p>
-<p align="center">Fig.1 A* path on Cube Map</p>
+
+To add two column images in one row, you can use an HTML table structure. Here's an example:
+
+html
+Copy code
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Cube_e.png" title="A* on Cube Map">
+      <br>
+      <p align="center">Fig.1 A* path on Cube Map</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Cube_e.png" title="A* on Cube Map">
+      <br>
+      <p align="center">Fig.2 Description of the second image</p>
+    </td>
+  </tr>
+</table>
 
 <h1><b> RRT* Results </b></h1>
 
