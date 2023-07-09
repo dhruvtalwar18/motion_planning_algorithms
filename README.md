@@ -88,7 +88,7 @@ paths.
 
 <h1><b> RRT* Results </b></h1>
 
-Below given images are of RRT* path with Uniform Sampling for different maps.
+Below given images are of RRT* path with Goal Biased Sampling for different maps.
 
 
 
