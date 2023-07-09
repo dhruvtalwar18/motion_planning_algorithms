@@ -198,15 +198,21 @@ advancing autonomous navigation capabilities in robotics.
 
 
 
-<p align="center">
-    <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/Path_length_rrt_vs_a_.png" title="Path Length Comparison A* vs RRT*" style="width: 600px; height: 400px;">
-  <br>
-  <p align="center">Fig.1 Path Length Comparison A* vs RRT* </p>
-</p>
+<div style="display: flex;">
+  <div style="width: 50%;">
+    <p align="center">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/Path_length_rrt_vs_a_.png" title="Path Length Comparison A* vs RRT*" style="width: 600px; height: 400px;">
+      <br>
+      <p align="center">Fig.1 Path Length Comparison A* vs RRT* </p>
+    </p>
+  </div>
+  <div style="width: 50%;">
+    <p align="center">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/rrt_vs_a_.png" title="Number of Nodes" style="width: 600px; height: 400px;">
+      <br>
+      <p align="center">Fig.2 No. of Nodes comparison A* vs RRT* </p>
+    </p>
+  </div>
+</div>
 
-<p align="center">
-    <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/rrt_vs_a_.png" title="Number of Nodes" style="width: 600px; height: 400px;">
-  <br>
-  <p align="center">Fig.2 No. of Nodes comparison A* vs RRT* </p>
-</p>
 
