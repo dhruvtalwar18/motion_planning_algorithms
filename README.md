@@ -9,8 +9,21 @@ This project aims to conduct a comprehensive comparison between search-based and
 
 To add two column images in one row, you can use an HTML table structure. Here's an example:
 
-html
-Copy code
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Cube_e.png" title="A* on Cube Map">
+      <br>
+      <p align="center">Fig.1 A* path on Cube Map</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Cube_e.png" title="A* on Cube Map">
+      <br>
+      <p align="center">Fig.2 Description of the second image</p>
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td align="center">
