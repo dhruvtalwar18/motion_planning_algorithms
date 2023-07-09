@@ -216,3 +216,45 @@ advancing autonomous navigation capabilities in robotics.
 </div>
 
 
+<h1><b> Code Installation </b></h1>
+
+Git clone the repository and install the requirements
+```
+git clone https://github.com/dhruvtalwar18/motion_planning_algorithms
+cd motion_planning_algorithms
+pip3 install -r requirements.txt
+```
+
+Change the function to run in the __main__ fn to run A* on different maps
+To run A* on flappy bird map
+
+```
+test_flappy_bird(resolution,epsilon,True) 
+```
+To change the heuristic function, change the heuristic param in the heuristic fucntion
+```
+def heuristic(cell, goal, epsilon, heuristic_type='euclidean'):
+```
+<br>
+Change the map fn to run RRT* on different maps
+To run RRT* on flappy bird map, from the RRT_star.py
+
+```
+mapfile = './maps/flappy_bird.txt'
+start = np.array([0.5,2.5,5.5])
+goal = np.array([19.0,2.5,5.5]) #Flappy_bird
+```
+
+To change the sampling method select 
+
+```
+############################################## Choose Sampling Method  ##########################################
+planner = RRTStarPlanner(boundary, blocks, resolution, sampling_method='uniform')
+# planner = RRTStarPlanner(boundary, blocks, resolution, sampling_method='gaussian')
+# planner = RRTStarPlanner(boundary, blocks, resolution, sampling_method='goal_biased')
+```
+
+
+
+
+
