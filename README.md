@@ -1,1 +1,5 @@
-# motion_planning_algorithms
+Exploration and analysis of Search-based versus Sampling-based motion planning algorithms.
+
+
+
+
