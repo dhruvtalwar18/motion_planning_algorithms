@@ -177,6 +177,36 @@ shorter paths. <br>
 </p>
 
 
+<h1><b> A* vs RRT* Comparison </b></h1>
+
+<br>
+The comparison between the A* and RRT*
+algorithms provides valuable insights into their performance characteristics in various map scenarios. The A*
+algorithm consistently produces better-quality paths with
+lower path lengths across different maps, thanks to its
+systematic exploration guided by heuristic functions. On
+the other hand, RRT* algorithm demonstrates its strength
+in handling maps with high obstacle density, where it can
+generate shorter paths using Gaussian sampling compared
+to other sampling methods. A* may require more computational time especially in high dimensional spaces. The
+choice between A* and RRT* algorithms depends on the
+specific requirements of the navigation task, considering
+factors such as path quality, runtime, and the characteristics of the map. Further research and experimentation are
+necessary to explore the performance of these algorithms
+in more diverse and complex environments, ultimately
+advancing autonomous navigation capabilities in robotics.
 
 
+
+<p align="center">
+    <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/Path_length_rrt_vs_a_.png" title="Path Length Comparison A* vs RRT*" style="width: 600px; height: 400px;">
+  <br>
+  <p align="center">Fig.1 Path Length Comparison A* vs RRT* </p>
+</p>
+
+<p align="center">
+    <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/rrt_vs_a_.png" title="Number of Nodes" style="width: 600px; height: 400px;">
+  <br>
+  <p align="center">Fig.2 No. of Nodes comparison A* vs RRT* </p>
+</p>
 
