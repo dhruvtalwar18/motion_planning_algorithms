@@ -11,12 +11,12 @@ This project aims to conduct a comprehensive comparison between search-based and
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Cube_e.png" title="A* on Cube Map" style="width: 400px;">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Cube_e.png" title="A* on Cube Map" style="width: 400px; height: 400px;">
       <br>
       <p align="center">Fig.1 A* path on Cube Map</p>
     </td>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Flappy_bird_e.png" title="A* on Flappy Bird Map" style="width: 400px;">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Flappy_bird_e.png" title="A* on Flappy Bird Map" style="width: 400px; height: 400px;">
       <br>
       <p align="center">Fig.2 A* on Flappy Bird Map</p>
     </td>
@@ -25,12 +25,12 @@ This project aims to conduct a comprehensive comparison between search-based and
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Room_e.png" title="A* on Room Map" style="width: 400px;">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Room_e.png" title="A* on Room Map" style="width: 400px; height: 400px;">
       <br>
       <p align="center">Fig.3 A* path on Room Map</p>
     </td>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Monza_e.png" title="A* on Monza Map" style="width: 400px;">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Monza_e.png" title="A* on Monza Map" style="width: 400px; height: 400px;">
       <br>
       <p align="center">Fig.4 A* path on Monza Map</p>
     </td>
@@ -39,19 +39,21 @@ This project aims to conduct a comprehensive comparison between search-based and
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Tower_e.png" title="A* on Tower Map" style="width: 400px;">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Tower_e.png" title="A* on Tower Map" style="width: 400px; height: 400px;">
       <br>
       <p align="center">Fig.5 A* path on Tower Map</p>
     </td>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Window_e.png" title="A* on Window Map" style="width: 400px;">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Window_e.png" title="A* on Window Map" style="width: 400px; height: 400px;">
       <br>
       <p align="center">Fig.6 A* path on Window Map</p>
     </td>
   </tr>
 </table>
+
+
 <p align="center">
-    <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/maze_e.png" title="A* on Maze Map" style="width: 400px;">
+    <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/maze_e.png" title="A* on Maze Map" style="width: 400px; height: 400px;">
   <br>
   <p align="center">Fig.7 Additional Image</p>
 </p>
