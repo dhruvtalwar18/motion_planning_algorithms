@@ -97,12 +97,12 @@ Below given images are of RRT* path with Uniform Sampling for different maps.
     <td align="center">
       <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/RRT_star/Cube_gb.png" title="RRT* on Cube Map" style="width: 400px; height: 400px;">
       <br>
-      <p align="center">Fig.9 RRT* path on Cube Map</p>
+      <p align="center">Fig.1 RRT* path on Cube Map</p>
     </td>
     <td align="center">
       <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/RRT_star/flappy_bird_gb.png" title="RRT* on Flappy Bird Map" style="width: 400px; height: 400px;">
       <br>
-      <p align="center">Fig.10 RRT* on Flappy Bird Map</p>
+      <p align="center">Fig.2 RRT* on Flappy Bird Map</p>
     </td>
   </tr>
 </table>
@@ -111,12 +111,12 @@ Below given images are of RRT* path with Uniform Sampling for different maps.
     <td align="center">
       <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/RRT_star/Room_gb.png" title="RRT* on Room Map" style="width: 400px; height: 400px;">
       <br>
-      <p align="center">Fig.11 RRT* path on Room Map</p>
+      <p align="center">Fig.3 RRT* path on Room Map</p>
     </td>
     <td align="center">
       <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/RRT_star/monza_gb.png" title="RRT* on Monza Map" style="width: 400px; height: 400px;">
       <br>
-      <p align="center">Fig.12 RRT* path on Monza Map</p>
+      <p align="center">Fig.4 RRT* path on Monza Map</p>
     </td>
   </tr>
 </table>
@@ -125,12 +125,12 @@ Below given images are of RRT* path with Uniform Sampling for different maps.
     <td align="center">
       <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/RRT_star/tower_gb.png" title="RRT* on Tower Map" style="width: 400px; height: 400px;">
       <br>
-      <p align="center">Fig.13 RRT* path on Tower Map</p>
+      <p align="center">Fig.5 RRT* path on Tower Map</p>
     </td>
     <td align="center">
       <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/RRT_star/window_gb.png" title="RRT* on Window Map" style="width: 400px; height: 400px;">
       <br>
-      <p align="center">Fig.14 RRT* path on Window Map</p>
+      <p align="center">Fig.6 RRT* path on Window Map</p>
     </td>
   </tr>
 </table>
