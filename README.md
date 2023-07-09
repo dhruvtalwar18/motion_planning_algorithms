@@ -7,7 +7,6 @@ This project aims to conduct a comprehensive comparison between search-based and
 <h1><b> A* Results </b></h1>
 
 
-To add two column images in one row, you can use an HTML table structure. Here's an example:
 
 
 <table>
@@ -18,23 +17,47 @@ To add two column images in one row, you can use an HTML table structure. Here's
       <p align="center">Fig.1 A* path on Cube Map</p>
     </td>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Cube_e.png" title="A* on Cube Map">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Flappy_bird_e.png" title="A* on FLappy Bird Map">
       <br>
-      <p align="center">Fig.2 Description of the second image</p>
+      <p align="center">Fig.2 A* on Flappy Bird Map</p>
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Cube_e.png" title="A* on Cube Map">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Room_e.png" title="A* on Room Map">
       <br>
-      <p align="center">Fig.1 A* path on Cube Map</p>
+      <p align="center">Fig.3 A* path on Room Map</p>
     </td>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Cube_e.png" title="A* on Cube Map">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Monza_e.png" title="A* on Monza Map">
       <br>
-      <p align="center">Fig.2 Description of the second image</p>
+      <p align="center">Fig.4 A* path on Monza Map</p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Tower_e.png" title="A* on Tower Map">
+      <br>
+      <p align="center">Fig.5 A* path on Tower Map</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Window_e.png" title="A* on Window Map">
+      <br>
+      <p align="center">Fig.6 A* path on Window Map</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/maze_e.png" title="A* on Maze Map">
+      <br>
+      <p align="center">Fig.7 A* path on Maze Map</p>
     </td>
   </tr>
 </table>
