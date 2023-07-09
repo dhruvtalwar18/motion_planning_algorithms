@@ -88,54 +88,58 @@ paths.
 
 <h1><b> RRT* Results </b></h1>
 
+Below given images are of RRT* path with Uniform Sampling for different maps.
+
+
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Cube_e.png" title="A* on Cube Map" style="width: 400px; height: 400px;">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/RRT_star/Cube_gb.png" title="RRT* on Cube Map" style="width: 400px; height: 400px;">
       <br>
-      <p align="center">Fig.1 A* path on Cube Map</p>
+      <p align="center">Fig.1 RRT* path on Cube Map</p>
     </td>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Flappy_bird_e.png" title="A* on Flappy Bird Map" style="width: 400px; height: 400px;">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/RRT_star/flappy_bird_gb.png" title="RRT* on Flappy Bird Map" style="width: 400px; height: 400px;">
       <br>
-      <p align="center">Fig.2 A* on Flappy Bird Map</p>
+      <p align="center">Fig.2 RRT* on Flappy Bird Map</p>
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Room_e.png" title="A* on Room Map" style="width: 400px; height: 400px;">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/RRT_star/Room_gb.png" title="RRT* on Room Map" style="width: 400px; height: 400px;">
       <br>
-      <p align="center">Fig.3 A* path on Room Map</p>
+      <p align="center">Fig.3 RRT* path on Room Map</p>
     </td>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Monza_e.png" title="A* on Monza Map" style="width: 400px; height: 400px;">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/RRT_star/monza_gb.png" title="RRT* on Monza Map" style="width: 400px; height: 400px;">
       <br>
-      <p align="center">Fig.4 A* path on Monza Map</p>
+      <p align="center">Fig.4 RRT* path on Monza Map</p>
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Tower_e.png" title="A* on Tower Map" style="width: 400px; height: 400px;">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/RRT_star/tower_gb.png" title="RRT* on Tower Map" style="width: 400px; height: 400px;">
       <br>
-      <p align="center">Fig.5 A* path on Tower Map</p>
+      <p align="center">Fig.5 RRT* path on Tower Map</p>
     </td>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/Window_e.png" title="A* on Window Map" style="width: 400px; height: 400px;">
+      <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/RRT_star/window_gb.png" title="RRT* on Window Map" style="width: 400px; height: 400px;">
       <br>
-      <p align="center">Fig.6 A* path on Window Map</p>
+      <p align="center">Fig.6 RRT* path on Window Map</p>
     </td>
   </tr>
 </table>
 
 
 <p align="center">
-    <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/A_star/maze_e.png" title="A* on Maze Map" style="width: 400px; height: 400px;">
+    <img src="https://github.com/dhruvtalwar18/motion_planning_algorithms/blob/main/Results/RRT_star/Maze_gb.png" title="RRT* on Maze Map" style="width: 400px; height: 400px;">
   <br>
-  <p align="center">Fig.7 A* on Maze Map</p>
+  <p align="center">Fig.7 RRT* on Maze Map</p>
 </p>
 
 
